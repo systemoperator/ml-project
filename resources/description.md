@@ -103,4 +103,6 @@ For more information, read [Moro et al., 2014].
 
 * 21 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
-1. Missing Attribute Values: There are several missing values in some categorical attributes, all coded with the "unknown" label. These missing values can be treated as a possible class label or using deletion or imputation techniques.
+### Remark
+
+Missing Attribute Values: There are several missing values in some categorical attributes, all coded with the "unknown" label. These missing values can be treated as a possible class label or using deletion or imputation techniques.
